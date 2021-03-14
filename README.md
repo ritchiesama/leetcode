@@ -16,7 +16,7 @@
 - [39.combination-sum](./problems/array/39.combination-sum)  
 - [53.maximum-subarray.md](./problems/array/53.maximum-subarray.md)  
 - [66.plus-one](./problems/array/66.plus-one.md)
-- [88.merge-sorted-array](./problems/array/88.merge-sorted-array)
+- [88.merge-sorted-array](./problems/array/88.merge-sorted-array.md)
 
 
 
