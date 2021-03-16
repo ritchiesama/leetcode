@@ -17,7 +17,7 @@
 - [53.maximum-subarray.md](./problems/array/53.maximum-subarray.md)  
 - [66.plus-one](./problems/array/66.plus-one.md)
 - [88.merge-sorted-array](./problems/array/88.merge-sorted-array.md)
-- [118. Pascal's Triangle.md](./problems/array/88.merge-sorted-array.md/118. Pascal's Triangle.md)
+- [118.pascals-triangle.md](./problems/array/88.merge-sorted-array.md/118.pascals-triangle.md)
 
 
 
