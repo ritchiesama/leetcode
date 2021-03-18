@@ -13,7 +13,7 @@
 - [33.search-in-rotated-sorted-array.md](./problems/array/33.search-in-rotated-sorted-array.md)  
 - [34.find-first-and-last-position-of-element-in-sorted-array.md](./problems/array/34.find-first-and-last-position-of-element-in-sorted-array.md)  
 - [35.search-insert-position.md](./problems/array/35.search-insert-position.md)  
-- [39.combination-sum](./problems/array/39.combination-sum)  
+- [39.combination-sum](./problems/array/39.combination-sum.md)  
 - [53.maximum-subarray.md](./problems/array/53.maximum-subarray.md)  
 - [66.plus-one](./problems/array/66.plus-one.md)
 - [88.merge-sorted-array](./problems/array/88.merge-sorted-array.md)
