@@ -14,10 +14,10 @@ ans  将答案追加到ans里面
 
 想两个点：  
 1.截止条件  
-  if(d == p.length+1)
-    return;
+  if(d == p.length+1)  
+    return;  
 3.遍历候选节点  
-  for(int i = 1; 1<p.length+1; i++)
+  for(int i = 1; 1<p.length+1; i++)  
 ```python
 
 #Permutation(n,d)
