@@ -15,6 +15,7 @@
 - [35.search-insert-position.md](./problems/array/35.search-insert-position.md)  
 - [39.combination-sum](./problems/array/39.combination-sum.md)  
 - [40.combination-sum-2.md](./problems/array/40.combination-sum-2.md)
+- [45.jump-game-2.md](./problems/array/45.jump-game-2.md)
 - [53.maximum-subarray.md](./problems/array/53.maximum-subarray.md)  
 - [66.plus-one](./problems/array/66.plus-one.md)
 - [88.merge-sorted-array](./problems/array/88.merge-sorted-array.md)
