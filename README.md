@@ -22,6 +22,7 @@
 - [88.merge-sorted-array](./problems/array/88.merge-sorted-array.md)
 - [118.pascals-triangle.md](./problems/array/118.pascals-triangle.md)
 - [121.best-time-to-buy-and-sell-stock](./problems/array/121.best-time-to-buy-and-sell-stock)
+- [122.best-time-to-buy-and-sell-stock-2](./problems/array/best-time-to-buy-and-sell-stock-2.md)
 
 
 
