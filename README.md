@@ -3,7 +3,6 @@
 
 ## Array
 - [01.two-sum.md](./problems/array/01.two-sum.md)  
-- [02.add-two-numbers](./problems/array/02.add-two-numbers.md)
 - [04.median-of-two-sorted.md](./problems/array/04.median-of-two-sorted.md)  
 - [11.container-with-most-water.md](./problems/array/11.container-with-most-water.md)  
 - [15.3sum.md](./problems/array/15.3sum.md)  
@@ -30,7 +29,8 @@
 ./problems/array/.md
 
 
-
+##Linked-list
+- [02.add-two-numbers](./problems/linked-list/2.add-two-numbers.md)
 
 
 
