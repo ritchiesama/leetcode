@@ -1,7 +1,7 @@
 # This is a leetcode codes record repo.
 
 
-## Array
+### Array
 - [01.two-sum.md](./problems/array/01.two-sum.md)  
 - [04.median-of-two-sorted.md](./problems/array/04.median-of-two-sorted.md)  
 - [11.container-with-most-water.md](./problems/array/11.container-with-most-water.md)  
@@ -29,7 +29,7 @@
 ./problems/array/.md
 
 
-##Linked-list
+### Linked-list
 - [02.add-two-numbers](./problems/linked-list/2.add-two-numbers.md)
 
 
@@ -37,7 +37,7 @@
 
 
 
-##Sliding-window
+### Sliding-window
 - [03.longest-substring-without-repeating-characters](./problems/sliding-window/03.longest-substring-without-repeating-characters.md)
 
 
