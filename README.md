@@ -39,7 +39,7 @@
 
 ### Math
 -[7.reverse-integer](./problems/math/7.reverse-integer.md)
-
+-[9.palindrome-number](./problems/math/9.palindrome-number.md)
 
 ### Sliding-window
 - [03.longest-substring-without-repeating-characters](./problems/sliding-window/03.longest-substring-without-repeating-characters.md)
