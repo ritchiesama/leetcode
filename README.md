@@ -37,7 +37,8 @@
 
 
 
-
+### Math
+-[7.reverse-integer](./problems/math/7.reverse-integer.md)
 
 
 ### Sliding-window
