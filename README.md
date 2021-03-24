@@ -29,6 +29,9 @@
 ./problems/array/.md
 
 
+### Dynamic-programing
+-[5.longest-palindromic-substring](./problems/dynamic-programing/5.longest-palindromic-substring.md)
+
 ### Linked-list
 - [02.add-two-numbers](./problems/linked-list/2.add-two-numbers.md)
 
