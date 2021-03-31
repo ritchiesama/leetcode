@@ -106,6 +106,75 @@ merge sort
 heapsort
 ```java
 
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package javaapplication50;
+
+/**
+ *
+ * @author Ritchie Lee
+ */
+public class JavaApplication50 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+                int[] tree = {5,3,1,4,2,9,8};
+		int len = tree.length;
+		
+                heap_sort(tree, len);
+                for(int i = 0; i< len; i ++)
+		System.out.println(tree[i]);
+    }
+   
+	
+	private static 
+        void heapify(int[] tree, int len, int i){ //将堆整理成大顶堆
+		if(i>=len){
+			return;
+		}
+		int c1 = 2 * i + 1;
+		int c2 = 2 * i + 2;
+		int max = i;
+		if(c1 < len && tree[c1] > tree[max])
+			max = c1;
+		if(c2 < len && tree[c2] > tree[max])
+			max = c2;
+		if(max!=i){
+			swap(tree,max,i);
+			heapify(tree, len, max);
+		}
+	}
+	
+	public static void build_heap(int[] tree, int len){ //对于完全无序的堆,从最后一个父节点开始排序
+		int last_node = len - 1;
+		int parent = (last_node - 1) / 2;
+		for(int i = parent; i >= 0 ; i--){
+			heapify(tree, len, i);
+		}
+	}
+	
+	public static void heap_sort(int[] tree, int n){
+		build_heap(tree,n);
+		
+		for(int i = n; i>=0; i--){
+			swap(tree, i, 0);
+			heapify(tree,i, 0);
+		}
+	}
+	public static void swap(int[] tree, int i, int j){
+		int tmp = tree[i];
+		tree[i] = tree[j];
+		tree[j] = tmp;
+                
+	}
+
+}
+
 ```
 
 
