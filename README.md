@@ -25,6 +25,7 @@
 - [122.best-time-to-buy-and-sell-stock-2](./problems/array/122.best-time-to-buy-and-sell-stock-2.md)
 - [1470.shuffle-the-array.md](./problems/array/1470.shuffle-the-array.md)
 - [1480.running-sum-of-1d-array.md](./problems/array/1480.running-sum-of-1d-array.md)
+- [1672.richest-customer-wealth.md](./problems/array/1672.richest-customer-wealth.md)
 
 
 
