@@ -23,6 +23,7 @@
 - [118.pascals-triangle.md](./problems/array/118.pascals-triangle.md)
 - [121.best-time-to-buy-and-sell-stock](./problems/array/121.best-time-to-buy-and-sell-stock.md)
 - [122.best-time-to-buy-and-sell-stock-2](./problems/array/122.best-time-to-buy-and-sell-stock-2.md)
+- [1480.running-sum-of-1d-array.md](./problems/array/1480.running-sum-of-1d-array.md)
 
 
 
