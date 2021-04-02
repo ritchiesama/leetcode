@@ -1,0 +1,27 @@
+List接口常用方法：
+1、add(Object element)： 向列表的尾部添加指定的元素。
+
+2、size()： 返回列表中的元素个数。
+
+3、get(int index)： 返回列表中指定位置的元素，index从0开始。
+
+4、add(int index, Object element)： 在列表的指定位置插入指定元素。
+
+5、set(int i, Object element)： 将索引i位置元素替换为元素element并返回被替换的元素。
+
+6、clear()： 从列表中移除所有元素。
+
+7、isEmpty()： 判断列表是否包含元素，不包含元素则返回 true，否则返回false。
+
+8、contains(Object o)： 如果列表包含指定的元素，则返回 true。
+
+9、remove(int index)： 移除列表中指定位置的元素，并返回被删元素。
+
+10、remove(Object o)： 移除集合中第一次出现的指定元素，移除成功返回true，否则返回false。
+
+11、iterator()： 返回按适当顺序在列表的元素上进行迭代的迭代器。
+
+ArrayList一样可以使用List的所有方法，所以以ArrayList来演示：
+————————————————
+原文链接：https://blog.csdn.net/xiao_a_ruo_ya/article/details/98850706
+
