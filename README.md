@@ -39,6 +39,7 @@
 
 ### Linked-list
 - [02.add-two-numbers](./problems/linked-list/2.add-two-numbers.md)
+- [21.merge-two-sorted-lists.md](./problems/linked-list/21.merge-two-sorted-lists.md)
 
 
 
