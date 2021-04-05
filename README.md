@@ -55,6 +55,7 @@
 
 ### String
 -[13.roman-to-integer](./problems/string/13.roman-to-integer)
+-[58.length-of-last-word.md](./problems/string/58.length-of-last-word.md)
 -[1108.defanging-an-ip-address](./problems/string/1108.defanging-an-ip-address.md)
 
 
