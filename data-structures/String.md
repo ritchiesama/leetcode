@@ -9,3 +9,5 @@ setCharAt()
 setLength()  
 //一旦生成了一个想要的字符串,就可以通过他继承的方法toString()将其转换成一个String类.
 ```
+题型:
+-(709.to-lower-case)[https://github.com/ritchiesama/leetcode/blob/main/problems/string/709.to-lower-case.md]
