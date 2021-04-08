@@ -35,7 +35,7 @@
 
 
 ### Dynamic-programing
--[5.longest-palindromic-substring](./problems/dynamic-programing/5.longest-palindromic-substring.md)
+- [5.longest-palindromic-substring](./problems/dynamic-programing/5.longest-palindromic-substring.md)
 
 ### Linked-list
 - [02.add-two-numbers](./problems/linked-list/2.add-two-numbers.md)
@@ -48,8 +48,8 @@
 - [605.can-place-flowers.md](./problems/greddy/605.can-place-flowers.md)
 - 
 ### Math
--[7.reverse-integer](./problems/math/7.reverse-integer.md)
--[9.palindrome-number](./problems/math/9.palindrome-number.md)
+- [7.reverse-integer](./problems/math/7.reverse-integer.md)
+- [9.palindrome-number](./problems/math/9.palindrome-number.md)
 
 ### Sliding-window
 - [03.longest-substring-without-repeating-characters](./problems/sliding-window/03.longest-substring-without-repeating-characters.md)
