@@ -31,7 +31,7 @@
 
 
 
-./problems/array/.md
+
 
 
 ### Dynamic-programing
@@ -41,8 +41,12 @@
 - [02.add-two-numbers](./problems/linked-list/2.add-two-numbers.md)
 - [21.merge-two-sorted-lists.md](./problems/linked-list/21.merge-two-sorted-lists.md)
 
-
-
+### Greddy
+- [135.candy.md](./problems/greddy/135.candy.md)
+- [435.non-overlapping-intervals.md](./problems/greddy/435.non-overlapping-intervals.md)
+- [455.assign-cookies.md](./problems/greddy/455.assign-cookies.md)
+- [605.can-place-flowers.md](./problems/greddy/605.can-place-flowers.md)
+- 
 ### Math
 -[7.reverse-integer](./problems/math/7.reverse-integer.md)
 -[9.palindrome-number](./problems/math/9.palindrome-number.md)
