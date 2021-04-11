@@ -60,7 +60,7 @@
 ### Sliding-window
 - [03.longest-substring-without-repeating-characters](./problems/sliding-window/03.longest-substring-without-repeating-characters.md)
 
-###Stack
+### Stack
 - [20.valid-parentheses.md](./problems/stack/20.valid-parentheses.md)
 
 ### String
@@ -70,5 +70,5 @@
 - [1108.defanging-an-ip-address](./problems/string/1108.defanging-an-ip-address.md)
 
 ### Two-Pointer
--[167.two-sum-ii-input-array-is-sorted](./problems/two-pointer/167.two-sum-ii-input-array-is-sorted.md)
+- [167.two-sum-ii-input-array-is-sorted](./problems/two-pointer/167.two-sum-ii-input-array-is-sorted.md)
 
