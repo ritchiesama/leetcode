@@ -72,3 +72,4 @@
 ### Two-Pointer
 - [167.two-sum-ii-input-array-is-sorted](./problems/two-pointer/167.two-sum-ii-input-array-is-sorted.md)
 - [142.linked-list-cycle-ii.md](./problems/two-pointer/142.linked-list-cycle-ii.md)
+- [633.sum-of-square-numbers](./problems/two-pointer/633.sum-of-square-numbers.md)
