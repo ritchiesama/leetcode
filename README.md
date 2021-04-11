@@ -1,5 +1,5 @@
 # This is a leetcode codes record repo.
-
+###[Learned a Useless Trick Everyday](./others/trick.md)
 
 ### Array
 - [01.two-sum.md](./problems/array/01.two-sum.md)  
@@ -36,9 +36,7 @@
 ### Dynamic-programing
 - [5.longest-palindromic-substring](./problems/dynamic-programing/5.longest-palindromic-substring.md)
 
-### Linked-list
-- [02.add-two-numbers](./problems/linked-list/2.add-two-numbers.md)
-- [21.merge-two-sorted-lists.md](./problems/linked-list/21.merge-two-sorted-lists.md)
+
 
 ### Greddy
 - [122.best-time-to-buy-and-sell-stock-2](./problems/array/122.best-time-to-buy-and-sell-stock-2.md)
@@ -48,7 +46,13 @@
 - [452.minimum-number-of-arrows-to-burst-balloons](./problems/greddy/452.minimum-number-of-arrows-to-burst-balloons.java)
 - [455.assign-cookies.md](./problems/greddy/455.assign-cookies.md)
 - [605.can-place-flowers.md](./problems/greddy/605.can-place-flowers.md)
-- 
+
+
+### Linked-list
+- [02.add-two-numbers](./problems/linked-list/2.add-two-numbers.md)
+- [21.merge-two-sorted-lists.md](./problems/linked-list/21.merge-two-sorted-lists.md)
+
+
 ### Math
 - [7.reverse-integer](./problems/math/7.reverse-integer.md)
 - [9.palindrome-number](./problems/math/9.palindrome-number.md)
