@@ -22,7 +22,6 @@
 - [88.merge-sorted-array](./problems/array/88.merge-sorted-array.md)
 - [118.pascals-triangle.md](./problems/array/118.pascals-triangle.md)
 - [121.best-time-to-buy-and-sell-stock](./problems/array/121.best-time-to-buy-and-sell-stock.md)
-- [122.best-time-to-buy-and-sell-stock-2](./problems/array/122.best-time-to-buy-and-sell-stock-2.md)
 - [1431.kids-with-the-greatest-number-of-candies.md](./problems/array/1431.kids-with-the-greatest-number-of-candies.md)
 - [1470.shuffle-the-array.md](./problems/array/1470.shuffle-the-array.md)
 - [1480.running-sum-of-1d-array.md](./problems/array/1480.running-sum-of-1d-array.md)
@@ -42,6 +41,7 @@
 - [21.merge-two-sorted-lists.md](./problems/linked-list/21.merge-two-sorted-lists.md)
 
 ### Greddy
+- [122.best-time-to-buy-and-sell-stock-2](./problems/array/122.best-time-to-buy-and-sell-stock-2.md)
 - [135.candy.md](./problems/greddy/135.candy.md)
 - [435.non-overlapping-intervals.md](./problems/greddy/435.non-overlapping-intervals.md)
 - [452.minimum-number-of-arrows-to-burst-balloons](./problems/greddy/452.minimum-number-of-arrows-to-burst-balloons.java)
