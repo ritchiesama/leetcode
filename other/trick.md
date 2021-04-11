@@ -1,8 +1,13 @@
+三目运算符操作的时候,可以控制指针自增或者自减
+```java
+n1[c--] = n1[p1] > n2[p2] ? n1[p1--] : n2[p2--];
+```
+
+
 当返回一个数组时,可以不用新建一个变量,return格式如下:
 ```java
 return new int[]{r_pointer, l_pointer}
 ```
-
 
 Array.sort 对二维数组排序
 ```java
