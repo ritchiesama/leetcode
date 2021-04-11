@@ -65,6 +65,6 @@
 - [709.to-lower-case](/problems/string/709.to-lower-case.md)
 - [1108.defanging-an-ip-address](./problems/string/1108.defanging-an-ip-address.md)
 
-
-
+### Two-Pointer
+-[167.two-sum-ii-input-array-is-sorted](./problems/two-pointer/167.two-sum-ii-input-array-is-sorted.md)
 
