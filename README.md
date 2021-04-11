@@ -43,6 +43,7 @@
 ### Greddy
 - [122.best-time-to-buy-and-sell-stock-2](./problems/array/122.best-time-to-buy-and-sell-stock-2.md)
 - [135.candy.md](./problems/greddy/135.candy.md)
+- [406.queue-reconstruction-by-height](./problems/greddy/406.queue-reconstruction-by-height.java)
 - [435.non-overlapping-intervals.md](./problems/greddy/435.non-overlapping-intervals.md)
 - [452.minimum-number-of-arrows-to-burst-balloons](./problems/greddy/452.minimum-number-of-arrows-to-burst-balloons.java)
 - [455.assign-cookies.md](./problems/greddy/455.assign-cookies.md)
