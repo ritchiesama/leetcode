@@ -1,5 +1,5 @@
 # This is a leetcode codes record repo.
-### [Learn a Useless Trick Everyday](./others/trick.md)
+### [Learn a Useless Trick Everyday](./other/trick.md)
 
 ### Array
 - [01.two-sum.md](./problems/array/01.two-sum.md)  
