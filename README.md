@@ -44,6 +44,7 @@
 ### Greddy
 - [135.candy.md](./problems/greddy/135.candy.md)
 - [435.non-overlapping-intervals.md](./problems/greddy/435.non-overlapping-intervals.md)
+- [452.minimum-number-of-arrows-to-burst-balloons](./problems/greddy/452.minimum-number-of-arrows-to-burst-balloons.java)
 - [455.assign-cookies.md](./problems/greddy/455.assign-cookies.md)
 - [605.can-place-flowers.md](./problems/greddy/605.can-place-flowers.md)
 - 
