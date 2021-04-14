@@ -46,7 +46,7 @@
 - [452.minimum-number-of-arrows-to-burst-balloons](./problems/greddy/452.minimum-number-of-arrows-to-burst-balloons.java)
 - [455.assign-cookies.md](./problems/greddy/455.assign-cookies.md)
 - [605.can-place-flowers.md](./problems/greddy/605.can-place-flowers.md)
-
+- [665.non-decreasing-array.md](./problems/greddy/665.non-decreasing-array.md)
 
 ### Linked-list
 - [02.add-two-numbers](./problems/linked-list/2.add-two-numbers.md)
@@ -73,3 +73,4 @@
 - [167.two-sum-ii-input-array-is-sorted](./problems/two-pointer/167.two-sum-ii-input-array-is-sorted.md)
 - [142.linked-list-cycle-ii.md](./problems/two-pointer/142.linked-list-cycle-ii.md)
 - [633.sum-of-square-numbers](./problems/two-pointer/633.sum-of-square-numbers.md)
+
