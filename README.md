@@ -30,7 +30,8 @@
 
 
 
-
+### Binary-search
+- [69.xqrtx.md](./problems/binary-serach/69.xqrtx.md)
 
 
 ### Dynamic-programing
