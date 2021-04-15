@@ -11,7 +11,6 @@
 - [26.remove-duplicates-from-sorted-array.md.md](./problems/array/26.remove-duplicates-from-sorted-array.md.md)  
 - [27.remove-element.md](./problems/array/27.remove-element.md)  
 - [33.search-in-rotated-sorted-array.md](./problems/array/33.search-in-rotated-sorted-array.md)  
-- [34.find-first-and-last-position-of-element-in-sorted-array.md](./problems/array/34.find-first-and-last-position-of-element-in-sorted-array.md)  
 - [35.search-insert-position.md](./problems/array/35.search-insert-position.md)  
 - [39.combination-sum](./problems/array/39.combination-sum.md)  
 - [40.combination-sum-2.md](./problems/array/40.combination-sum-2.md)
@@ -31,6 +30,7 @@
 
 
 ### Binary-search
+- [34.find-first-and-last-position-of-element-in-sorted-array.md](./problems/array/34.find-first-and-last-position-of-element-in-sorted-array.md)  
 - [69.xqrtx.md](./problems/binary-serach/69.xqrtx.md)
 
 
