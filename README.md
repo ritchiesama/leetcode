@@ -33,7 +33,7 @@
 - [34.find-first-and-last-position-of-element-in-sorted-array.md](./problems/array/34.find-first-and-last-position-of-element-in-sorted-array.md)  
 - [69.xqrtx.md](./problems/binary-serch/69.xqrtx.md)
 - [81.search-in-rotated-sorted-array-ii.md](./problems/binary-serch/81.search-in-rotated-sorted-array-ii.md)
-
+- [154.find-minimum-in-rotated-sorted-array-ii.md](.problems/binary-serch/154.find-minimum-in-rotated-sorted-array-ii.md)
 
 ### Dynamic-programing
 - [5.longest-palindromic-substring](./problems/dynamic-programing/5.longest-palindromic-substring.md)
