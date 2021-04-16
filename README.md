@@ -32,6 +32,7 @@
 ### Binary-search
 - [34.find-first-and-last-position-of-element-in-sorted-array.md](./problems/array/34.find-first-and-last-position-of-element-in-sorted-array.md)  
 - [69.xqrtx.md](./problems/binary-serach/69.xqrtx.md)
+- [81.search-in-rotated-sorted-array-ii.md](./problems/binary-search/81.search-in-rotated-sorted-array-ii.md)
 
 
 ### Dynamic-programing
