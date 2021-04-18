@@ -56,6 +56,9 @@
 - [02.add-two-numbers](./problems/linked-list/2.add-two-numbers.md)
 - [21.merge-two-sorted-lists.md](./problems/linked-list/21.merge-two-sorted-lists.md)
 
+###Map
+- [771.jewels-and-stones.md](./problems/map/771.jewels-and-stones.md)
+
 
 ### Math
 - [7.reverse-integer](./problems/math/7.reverse-integer.md)
