@@ -120,3 +120,15 @@
 邮箱  
 \w+@s[a-z0-9A-Z]+(\.[A-Za-z]{2,3}){1,2}
 
+##JAVA中正则表达式  
+```java
+Pattern p = Pattern.compile("");
+
+Matcher m = p.matcher("aasdfkjlhklj");
+
+boolean yeaorno = m.matches();//尝试将整个字符序列与该模式匹配
+
+boolean yeaorno = m.find();//该方法扫描输入的序列, 查找与该模式匹配的下一个子序列(指针保持)
+
+System.out.println(yesorno);
+```
