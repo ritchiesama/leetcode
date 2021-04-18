@@ -1,0 +1,55 @@
+Map
+```java
+class Solution {
+    public int numJewelsInStones(String jewels, String stones) {
+        int cnt = 0;
+        Set<Character> jewel = new HashSet<>();
+        for(int i = 0; i < jewels.length(); ++i){
+            jewel.add(jewels.charAt(i));
+        }
+        
+        for(int i = 0; i < stones.length(); ++i){
+            if(jewel.contains(stones.charAt(i)))
+                ++cnt;
+        }
+        
+        return cnt;
+    }
+}
+
+```
+
+indexOf
+```java
+```java
+class Solution {
+    public int numJewelsInStones(String j, String stone) {      
+        int count = 0;
+        for(char s : stone.toCharArray()){
+            if(j.indexOf(s) != -1)
+                count ++;
+        }
+            
+        return count;
+    }
+}
+```
+```
+
+brute-force
+```java
+class Solution {
+    public int numJewelsInStones(String jewels, String stones) {
+        char[] j = jewels.toCharArray();
+        char[] s = stones.toCharArray();
+        int count = 0;
+        for(int i = 0; i < s.length; ++i){
+            for(int k = 0; k < j.length; ++k){
+                if(j[k] == s[i] )
+                    ++count;
+            }
+        }
+        return count;
+    }
+}
+```
