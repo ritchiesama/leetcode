@@ -1,3 +1,5 @@
+Binare-pick is generally used for solving k-th element problems. It can solve the problem in O(n) time complexity and O(1) time complexity
+
 binary-search
 ```java
 //求符合条件的最小值
