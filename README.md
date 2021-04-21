@@ -36,6 +36,7 @@
 - [153.find-minimum-in-rotated-sorted-array](./problems/binary-serch/153.find-minimum-in-rotated-sorted-array.md)
 - [154.find-minimum-in-rotated-sorted-array-ii.md](./problems/binary-serch/154.find-minimum-in-rotated-sorted-array-ii.md)
 - [540.single-element-in-a-sorted-array.md](./problems/binary-serch/540.single-element-in-a-sorted-array.md)
+- 
 
 ### Dynamic-programing
 - [5.longest-palindromic-substring](./problems/dynamic-programing/5.longest-palindromic-substring.md)
@@ -67,6 +68,9 @@
 ### Sliding-window
 - [03.longest-substring-without-repeating-characters](./problems/sliding-window/03.longest-substring-without-repeating-characters.md)
 
+### Sort   
+- [215.kth-largest-element-in-an-array.md](./problems/sort/215.kth-largest-element-in-an-array.md)QuickPick   
+- 
 ### Stack
 - [20.valid-parentheses.md](./problems/stack/20.valid-parentheses.md)
 
