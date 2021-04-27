@@ -56,6 +56,7 @@
 ### Linked-list
 - [02.add-two-numbers](./problems/linked-list/2.add-two-numbers.md)
 - [21.merge-two-sorted-lists.md](./problems/linked-list/21.merge-two-sorted-lists.md)
+- [19.remove-nth-node-from-end-of-list.md](./problems/linked-list/19.remove-nth-node-from-end-of-list.md)
 
 ### Map
 - [771.jewels-and-stones.md](./problems/map/771.jewels-and-stones.md)
