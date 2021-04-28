@@ -38,6 +38,9 @@
 - [540.single-element-in-a-sorted-array.md](./problems/binary-serch/540.single-element-in-a-sorted-array.md)
 - 
 
+### Deep-first-search(DFS)
+- [695.max-area-of-island]()
+
 ### Dynamic-programing
 - [5.longest-palindromic-substring](./problems/dynamic-programing/5.longest-palindromic-substring.md)
 
