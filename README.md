@@ -39,7 +39,7 @@
 - 
 
 ### Deep-first-search(DFS)
-- [695.max-area-of-island]()
+- [695.max-area-of-island](./problems/dfs-bfs/695.max-area-of-island.md)
 
 ### Dynamic-programing
 - [5.longest-palindromic-substring](./problems/dynamic-programing/5.longest-palindromic-substring.md)
