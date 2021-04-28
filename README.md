@@ -39,6 +39,7 @@
 - 
 
 ### Deep-first-search(DFS)
+- [200.number-of-islands](./problems/dfs-bfs/200.number-of-islands.md)
 - [695.max-area-of-island](./problems/dfs-bfs/695.max-area-of-island.md)
 
 ### Dynamic-programing
